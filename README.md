@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @m-bocelli
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning the fundamentals of computer science, as I recently switched to the major.
-- 💞️ I’m looking to collaborate on independent game projects.
-- 📫 Shoot me an email at michael.j.bocelli@gmail.com if you want to work together!
+# MICHAEL (*MIKEY*) BOCELLI
+Hello! I am a **computer science** and **international relations** major looking to pursue a passion in game development.
+I am currently learning the fundamentals of computer science through a class in Python at the **University of Delaware**.
+Shoot me an email at michael.j.bocelli@gmail.com if you want to work together, or check out my [LinkedIn](https://www.linkedin.com/in/michael-bocelli/)!
 
-<!---
-m-bocelli/m-bocelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
