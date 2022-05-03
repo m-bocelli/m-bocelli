@@ -1,5 +1,5 @@
 # *Michael Bocelli*
-I am a **computer science** and **international relations** major, driven to pursue a career programming.
+I am a **computer science** and **international relations** major, driven to pursue a career in programming.
 
 So far, I have completed studying the fundamentals of computer science in **Python**, and currently I am studying **Java** and systems programming with **C**.
 
